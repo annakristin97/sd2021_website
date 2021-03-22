@@ -1,5 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
+publishDir = "docs"
 title = "Social Data 2021"
 theme = "ananke"
 Subtitle = "Hugo is Absurdly Fast!"
