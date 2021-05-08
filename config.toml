@@ -1,6 +1,0 @@
-baseURL = "https://annakristin97.github.io/sd2021_website/"
-languageCode = "en-us"
-publishDir = "docs"
-title = "Social Data 2021"
-theme = "ananke"
-Subtitle = "Hugo is Absurdly Fast!"
