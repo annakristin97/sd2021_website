@@ -1,11 +1,10 @@
 ---
-title: Data
+title: Map
 featured_image: "images/notebook.jpg"
-description: Graphs
+description: blablalba
 type: page
 menu:
   main: {}
 
 ---
-
-GRAPHS
+{{< include-html "content/map_test.html">}}
